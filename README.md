@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
+The repository for the final project of the Coursera Data Specialization: Getting and Cleaning Data
 
 1. The submitted data set is tidy. 
 
